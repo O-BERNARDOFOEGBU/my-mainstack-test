@@ -97,7 +97,7 @@ const Select = ({
                     }
                     className="accent-black-300 h-[20px] w-[20px]"
                   />
-                  <p>{item.name}</p>
+                  <p className="text-black-300">{item.name}</p>
                 </Listbox.Option>
               ))}
             </Listbox.Options>
