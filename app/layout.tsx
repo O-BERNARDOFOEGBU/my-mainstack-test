@@ -5,7 +5,7 @@ import App from "@components/App";
 export const metadata: Metadata = {
   title: "Mainstack",
   description: "Transaction Monitoring Dashboard",
-  icons: "/assets/images/logo.svg",
+  icons: "https://mainstack.co/favicon.ico",
 };
 
 export default function RootLayout({
